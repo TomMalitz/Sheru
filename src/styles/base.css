@@ -1,0 +1,13 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  @apply text-3xl font-bold !important;
+}

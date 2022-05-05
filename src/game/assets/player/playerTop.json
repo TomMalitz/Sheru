@@ -1,0 +1,94 @@
+{ "frames": [
+   {
+    "filename": "player 26.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "player 27.aseprite",
+    "frame": { "x": 96, "y": 0, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "player 28.aseprite",
+    "frame": { "x": 192, "y": 0, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 100
+   },
+   {
+    "filename": "player 29.aseprite",
+    "frame": { "x": 0, "y": 64, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   },
+   {
+    "filename": "player 30.aseprite",
+    "frame": { "x": 96, "y": 64, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   },
+   {
+    "filename": "player 31.aseprite",
+    "frame": { "x": 192, "y": 64, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   },
+   {
+    "filename": "player 32.aseprite",
+    "frame": { "x": 0, "y": 128, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "playerTop.png",
+  "format": "RGBA8888",
+  "size": { "w": 288, "h": 192 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "jump", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "fall", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "dash_backward", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "dash_forward", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "attack", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "jump_attack", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "duck_idle", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "duck_attack", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "run_attack_top", "from": 0, "to": 2, "direction": "forward" },
+   { "name": "run", "from": 3, "to": 6, "direction": "forward" },
+   { "name": "take_damage", "from": 7, "to": 6, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Run Top", "opacity": 255, "blendMode": "normal" },
+   { "name": "Run Effect", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

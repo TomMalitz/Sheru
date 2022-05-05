@@ -1,0 +1,66 @@
+{ "frames": [
+   {
+    "filename": "player 29.aseprite",
+    "frame": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   },
+   {
+    "filename": "player 30.aseprite",
+    "frame": { "x": 96, "y": 0, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   },
+   {
+    "filename": "player 31.aseprite",
+    "frame": { "x": 0, "y": 64, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   },
+   {
+    "filename": "player 32.aseprite",
+    "frame": { "x": 96, "y": 64, "w": 96, "h": 64 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 64 },
+    "sourceSize": { "w": 96, "h": 64 },
+    "duration": 125
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.34.1-x64",
+  "image": "playerBottom.png",
+  "format": "RGBA8888",
+  "size": { "w": 192, "h": 128 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "idle", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "jump", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "fall", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "dash_backward", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "dash_forward", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "attack", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "jump_attack", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "duck_idle", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "duck_attack", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "run_attack_top", "from": 0, "to": -1, "direction": "forward" },
+   { "name": "run", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "take_damage", "from": 4, "to": 3, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Run Bottom", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
