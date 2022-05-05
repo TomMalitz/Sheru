@@ -5,7 +5,7 @@ A rogue-like game where the player assumes the bio-armor-ninja-shell entity know
 
 ## Play Test
 
-The game prototype can be play tested [here](https://elastic-murdock-d1a9ae.netlify.app/).
+The game prototype can be play-tested [here](https://elastic-murdock-d1a9ae.netlify.app/).
 
 ## Controls
 
